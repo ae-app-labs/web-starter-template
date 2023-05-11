@@ -1,12 +1,8 @@
 {
   "name": "web-starter-template",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A starter template for a web project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "keywords": ["web","template"],
+  "author": "ae-app-labs",
   "license": "ISC"
 }
